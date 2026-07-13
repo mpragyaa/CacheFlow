@@ -1,5 +1,4 @@
 # CacheFlow
-# CacheFlow
 
 A distributed in-memory caching system built from scratch — featuring LRU eviction, a custom pub/sub message queue, cross-node cache invalidation, and a real-time React dashboard.
 
